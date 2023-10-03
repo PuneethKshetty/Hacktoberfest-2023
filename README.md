@@ -3,8 +3,6 @@
 ## What is HacktoberFest ?
 Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
 
-<img src="images/Screenshot (28).png"></img>
-
 All backgrounds and skills levels are encouraged to complete the challenge.
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
