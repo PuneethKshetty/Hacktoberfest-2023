@@ -1,4 +1,4 @@
-# Hola Amigos, Welcome to Hackotober-Fest-2022
+# Hola Amigos, Welcome to Hackotober-Fest-2023
 
 ## What is HacktoberFest ?
 Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
